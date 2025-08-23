@@ -1,7 +1,9 @@
 # Student Stress Monitoring
 
 Model that predicts students' stress types using academic, personal, social and environmental factors from the dataset. 
->Distress is considered "bad stress" that the individual may find overwhelming or frightening. Eustress is considered "good stress" that the individual may find challenging and exciting.
+>Distress is considered "bad stress" that the individual may find overwhelming or frightening.
+>Eustress is considered "good stress" that the individual may find challenging and exciting.
+
 Dataset was provided by Kaggle and the project was done as an exercise to improve data analysis and ML skills.
 
 1. Loads the data, checks for NaN values and outliers and cleans them
